@@ -99,11 +99,12 @@ main {
   display: block;
   margin: 0 auto;
 }
-.weather-forecast-temp {
+.weather-forecast-temperatures {
+  text-align: center;
   font-size: 13px;
   color: #f65282;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
 }
 .weather-forecast-low {
   opacity: 0.5;
