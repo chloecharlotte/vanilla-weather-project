@@ -106,6 +106,9 @@ main {
   display: flex;
   justify-content: center;
 }
+.weather-forecast-temperature {
+  padding: 0 10px;
+}
 .weather-forecast-low {
   opacity: 0.5;
 }
